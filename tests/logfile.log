@@ -1,0 +1,263 @@
+2024-01-17 22:48:56,708 :INFO :test_e2e :Getting items by hitting Shop
+2024-01-17 22:48:56,756 :INFO :test_e2e :iphone X
+2024-01-17 22:48:56,788 :INFO :test_e2e :Samsung Note 8
+2024-01-17 22:48:56,821 :INFO :test_e2e :Nokia Edge
+2024-01-17 22:48:56,855 :INFO :test_e2e :Blackberry
+2024-01-17 22:48:57,193 :INFO :test_e2e :Entering country name as ukr
+2024-01-17 22:49:02,416 :INFO :test_e2e :Purchasing items by hitting Purchase button
+2024-01-17 22:49:02,619 :INFO :test_e2e :Response from application is ×
+Success! Thank you! Your order will be delivered in next few weeks :-).
+2024-01-17 23:06:00,681 :INFO :test_formSubmission :Submit form with firstname:Rahul
+2024-01-17 23:06:00,772 :INFO :test_formSubmission :Submit form with lastname:Shetty
+2024-01-17 23:06:01,020 :INFO :test_formSubmission :Submit form with gender:Male
+2024-01-17 23:06:01,288 :INFO :test_formSubmission :Alert text:×
+Success! The Form has been submitted successfully!.
+2024-01-17 23:06:04,176 :INFO :test_formSubmission :Submit form with firstname:Olena
+2024-01-17 23:06:04,176 :INFO :test_formSubmission :Submit form with firstname:Olena
+2024-01-17 23:06:04,212 :INFO :test_formSubmission :Submit form with lastname:Shetty
+2024-01-17 23:06:04,212 :INFO :test_formSubmission :Submit form with lastname:Shetty
+2024-01-17 23:06:04,466 :INFO :test_formSubmission :Submit form with gender:Female
+2024-01-17 23:06:04,466 :INFO :test_formSubmission :Submit form with gender:Female
+2024-01-17 23:06:04,924 :INFO :test_formSubmission :Alert text:×
+Success! The Form has been submitted successfully!.
+2024-01-17 23:06:04,924 :INFO :test_formSubmission :Alert text:×
+Success! The Form has been submitted successfully!.
+2024-01-17 23:20:14,117 :INFO :test_e2e :Getting items by hitting Shop
+2024-01-17 23:20:14,162 :INFO :test_e2e :iphone X
+2024-01-17 23:20:14,174 :INFO :test_e2e :Samsung Note 8
+2024-01-17 23:20:14,185 :INFO :test_e2e :Nokia Edge
+2024-01-17 23:20:14,196 :INFO :test_e2e :Blackberry
+2024-01-17 23:20:14,951 :INFO :test_e2e :Entering country name as ukr
+2024-01-17 23:20:20,245 :INFO :test_e2e :Purchasing items by hitting Purchase button
+2024-01-17 23:20:20,714 :INFO :test_e2e :Response from application is ×
+Success! Thank you! Your order will be delivered in next few weeks :-).
+2024-01-17 23:20:35,159 :INFO :test_formSubmission :Submit form with firstname:Rahul
+2024-01-17 23:20:35,277 :INFO :test_formSubmission :Submit form with lastname:Shetty
+2024-01-17 23:20:35,554 :INFO :test_formSubmission :Submit form with gender:Male
+2024-01-17 23:20:35,827 :INFO :test_formSubmission :Alert text:×
+Success! The Form has been submitted successfully!.
+2024-01-17 23:20:41,832 :INFO :test_formSubmission :Submit form with firstname:Olena
+2024-01-17 23:20:41,832 :INFO :test_formSubmission :Submit form with firstname:Olena
+2024-01-17 23:20:41,886 :INFO :test_formSubmission :Submit form with lastname:Shetty
+2024-01-17 23:20:41,886 :INFO :test_formSubmission :Submit form with lastname:Shetty
+2024-01-17 23:20:42,200 :INFO :test_formSubmission :Submit form with gender:Female
+2024-01-17 23:20:42,200 :INFO :test_formSubmission :Submit form with gender:Female
+2024-01-17 23:20:42,698 :INFO :test_formSubmission :Alert text:×
+Success! The Form has been submitted successfully!.
+2024-01-17 23:20:42,698 :INFO :test_formSubmission :Alert text:×
+Success! The Form has been submitted successfully!.
+2024-01-17 23:33:48,073 :INFO :test_e2e :Getting items by hitting Shop
+2024-01-17 23:33:48,106 :INFO :test_e2e :iphone X
+2024-01-17 23:33:48,129 :INFO :test_e2e :Samsung Note 8
+2024-01-17 23:33:48,143 :INFO :test_e2e :Nokia Edge
+2024-01-17 23:33:48,168 :INFO :test_e2e :Blackberry
+2024-01-17 23:33:48,954 :INFO :test_e2e :Entering country name as ukr
+2024-01-17 23:33:54,260 :INFO :test_e2e :Purchasing items by hitting Purchase button
+2024-01-17 23:33:54,738 :INFO :test_e2e :Response from application is ×
+Success! Thank you! Your order will be delivered in next few weeks :-).
+2024-01-17 23:34:06,427 :INFO :test_formSubmission :Submit form with firstname:Rahul
+2024-01-17 23:34:06,565 :INFO :test_formSubmission :Submit form with lastname:Shetty
+2024-01-17 23:34:06,865 :INFO :test_formSubmission :Submit form with gender:Male
+2024-01-17 23:34:07,137 :INFO :test_formSubmission :Alert text:×
+Success! The Form has been submitted successfully!.
+2024-01-17 23:34:10,051 :INFO :test_formSubmission :Submit form with firstname:Olena
+2024-01-17 23:34:10,051 :INFO :test_formSubmission :Submit form with firstname:Olena
+2024-01-17 23:34:10,099 :INFO :test_formSubmission :Submit form with lastname:Shetty
+2024-01-17 23:34:10,099 :INFO :test_formSubmission :Submit form with lastname:Shetty
+2024-01-17 23:34:10,358 :INFO :test_formSubmission :Submit form with gender:Female
+2024-01-17 23:34:10,358 :INFO :test_formSubmission :Submit form with gender:Female
+2024-01-17 23:34:10,852 :INFO :test_formSubmission :Alert text:×
+Success! The Form has been submitted successfully!.
+2024-01-17 23:34:10,852 :INFO :test_formSubmission :Alert text:×
+Success! The Form has been submitted successfully!.
+2024-01-18 01:18:46,436 :INFO :test_e2e :Getting items by hitting Shop
+2024-01-18 01:18:46,477 :INFO :test_e2e :iphone X
+2024-01-18 01:18:46,507 :INFO :test_e2e :Samsung Note 8
+2024-01-18 01:18:46,538 :INFO :test_e2e :Nokia Edge
+2024-01-18 01:18:46,559 :INFO :test_e2e :Blackberry
+2024-01-18 01:18:46,819 :INFO :test_e2e :Entering country name as ukr
+2024-01-18 01:18:52,010 :INFO :test_e2e :Purchasing items by hitting Purchase button
+2024-01-18 01:18:52,167 :INFO :test_e2e :Response from application is ×
+Success! Thank you! Your order will be delivered in next few weeks :-).
+2024-01-18 01:18:56,881 :INFO :test_formSubmission :Submit form with firstname:Rahul
+2024-01-18 01:18:56,977 :INFO :test_formSubmission :Submit form with lastname:Shetty
+2024-01-18 01:18:57,124 :INFO :test_formSubmission :Submit form with gender:Male
+2024-01-18 01:18:57,268 :INFO :test_formSubmission :Alert text:×
+Success! The Form has been submitted successfully!.
+2024-01-18 01:18:57,637 :INFO :test_formSubmission :Submit form with firstname:Olena
+2024-01-18 01:18:57,637 :INFO :test_formSubmission :Submit form with firstname:Olena
+2024-01-18 01:18:57,702 :INFO :test_formSubmission :Submit form with lastname:Shetty
+2024-01-18 01:18:57,702 :INFO :test_formSubmission :Submit form with lastname:Shetty
+2024-01-18 01:18:57,811 :INFO :test_formSubmission :Submit form with gender:Female
+2024-01-18 01:18:57,811 :INFO :test_formSubmission :Submit form with gender:Female
+2024-01-18 01:18:57,953 :INFO :test_formSubmission :Alert text:×
+Success! The Form has been submitted successfully!.
+2024-01-18 01:18:57,953 :INFO :test_formSubmission :Alert text:×
+Success! The Form has been submitted successfully!.
+2024-01-18 01:31:29,255 :INFO :test_e2e :Getting items by hitting Shop
+2024-01-18 01:31:29,301 :INFO :test_e2e :iphone X
+2024-01-18 01:31:29,327 :INFO :test_e2e :Samsung Note 8
+2024-01-18 01:31:29,355 :INFO :test_e2e :Nokia Edge
+2024-01-18 01:31:29,382 :INFO :test_e2e :Blackberry
+2024-01-18 01:31:29,663 :INFO :test_e2e :Entering country name as ukr
+2024-01-18 01:31:34,844 :INFO :test_e2e :Purchasing items by hitting Purchase button
+2024-01-18 01:31:34,996 :INFO :test_e2e :Response from application is ×
+Success! Thank you! Your order will be delivered in next few weeks :-).
+2024-01-18 01:31:44,384 :INFO :test_formSubmission :Submit form with firstname:Rahul
+2024-01-18 01:31:44,477 :INFO :test_formSubmission :Submit form with lastname:Shetty
+2024-01-18 01:31:44,636 :INFO :test_formSubmission :Submit form with gender:Male
+2024-01-18 01:31:44,783 :INFO :test_formSubmission :Alert text:×
+Success! The Form has been submitted successfully!.
+2024-01-18 01:31:45,152 :INFO :test_formSubmission :Submit form with firstname:Olena
+2024-01-18 01:31:45,152 :INFO :test_formSubmission :Submit form with firstname:Olena
+2024-01-18 01:31:45,238 :INFO :test_formSubmission :Submit form with lastname:Shetty
+2024-01-18 01:31:45,238 :INFO :test_formSubmission :Submit form with lastname:Shetty
+2024-01-18 01:31:45,372 :INFO :test_formSubmission :Submit form with gender:Female
+2024-01-18 01:31:45,372 :INFO :test_formSubmission :Submit form with gender:Female
+2024-01-18 01:31:45,526 :INFO :test_formSubmission :Alert text:×
+Success! The Form has been submitted successfully!.
+2024-01-18 01:31:45,526 :INFO :test_formSubmission :Alert text:×
+Success! The Form has been submitted successfully!.
+2024-01-18 01:43:11,855 :INFO :test_e2e :Getting items by hitting Shop
+2024-01-18 01:43:11,894 :INFO :test_e2e :iphone X
+2024-01-18 01:43:11,912 :INFO :test_e2e :Samsung Note 8
+2024-01-18 01:43:11,932 :INFO :test_e2e :Nokia Edge
+2024-01-18 01:43:11,950 :INFO :test_e2e :Blackberry
+2024-01-18 01:43:12,191 :INFO :test_e2e :Entering country name as ukr
+2024-01-18 01:43:17,357 :INFO :test_e2e :Purchasing items by hitting Purchase button
+2024-01-18 01:43:17,501 :INFO :test_e2e :Response from application is ×
+Success! Thank you! Your order will be delivered in next few weeks :-).
+2024-01-18 01:43:24,493 :INFO :test_formSubmission :Submit form with firstname:Rahul
+2024-01-18 01:43:24,573 :INFO :test_formSubmission :Submit form with lastname:Shetty
+2024-01-18 01:43:24,726 :INFO :test_formSubmission :Submit form with gender:Male
+2024-01-18 01:43:24,879 :INFO :test_formSubmission :Alert text:×
+Success! The Form has been submitted successfully!.
+2024-01-18 01:43:25,257 :INFO :test_formSubmission :Submit form with firstname:Olena
+2024-01-18 01:43:25,257 :INFO :test_formSubmission :Submit form with firstname:Olena
+2024-01-18 01:43:25,323 :INFO :test_formSubmission :Submit form with lastname:Shetty
+2024-01-18 01:43:25,323 :INFO :test_formSubmission :Submit form with lastname:Shetty
+2024-01-18 01:43:25,434 :INFO :test_formSubmission :Submit form with gender:Female
+2024-01-18 01:43:25,434 :INFO :test_formSubmission :Submit form with gender:Female
+2024-01-18 01:43:25,584 :INFO :test_formSubmission :Alert text:×
+Success! The Form has been submitted successfully!.
+2024-01-18 01:43:25,584 :INFO :test_formSubmission :Alert text:×
+Success! The Form has been submitted successfully!.
+2024-01-18 01:47:14,092 :INFO :test_e2e :Getting items by hitting Shop
+2024-01-18 01:47:14,158 :INFO :test_e2e :iphone X
+2024-01-18 01:47:14,200 :INFO :test_e2e :Samsung Note 8
+2024-01-18 01:47:14,235 :INFO :test_e2e :Nokia Edge
+2024-01-18 01:47:14,263 :INFO :test_e2e :Blackberry
+2024-01-18 01:47:14,560 :INFO :test_e2e :Entering country name as ukr
+2024-01-18 01:47:19,778 :INFO :test_e2e :Purchasing items by hitting Purchase button
+2024-01-18 01:47:19,964 :INFO :test_e2e :Response from application is ×
+Success! Thank you! Your order will be delivered in next few weeks :-).
+2024-01-18 01:47:28,019 :INFO :test_formSubmission :Submit form with firstname:Rahul
+2024-01-18 01:47:28,129 :INFO :test_formSubmission :Submit form with lastname:Shetty
+2024-01-18 01:47:28,333 :INFO :test_formSubmission :Submit form with gender:Male
+2024-01-18 01:47:28,516 :INFO :test_formSubmission :Alert text:×
+Success! The Form has been submitted successfully!.
+2024-01-18 01:47:28,921 :INFO :test_formSubmission :Submit form with firstname:Olena
+2024-01-18 01:47:28,921 :INFO :test_formSubmission :Submit form with firstname:Olena
+2024-01-18 01:47:29,027 :INFO :test_formSubmission :Submit form with lastname:Shetty
+2024-01-18 01:47:29,027 :INFO :test_formSubmission :Submit form with lastname:Shetty
+2024-01-18 01:47:29,188 :INFO :test_formSubmission :Submit form with gender:Female
+2024-01-18 01:47:29,188 :INFO :test_formSubmission :Submit form with gender:Female
+2024-01-18 01:47:29,383 :INFO :test_formSubmission :Alert text:×
+Success! The Form has been submitted successfully!.
+2024-01-18 01:47:29,383 :INFO :test_formSubmission :Alert text:×
+Success! The Form has been submitted successfully!.
+2024-01-18 01:49:11,184 :INFO :test_e2e :Getting items by hitting Shop
+2024-01-18 01:49:11,225 :INFO :test_e2e :iphone X
+2024-01-18 01:49:11,238 :INFO :test_e2e :Samsung Note 8
+2024-01-18 01:49:11,254 :INFO :test_e2e :Nokia Edge
+2024-01-18 01:49:11,277 :INFO :test_e2e :Blackberry
+2024-01-18 01:49:12,121 :INFO :test_e2e :Entering country name as ukr
+2024-01-18 01:49:17,405 :INFO :test_e2e :Purchasing items by hitting Purchase button
+2024-01-18 01:49:17,872 :INFO :test_e2e :Response from application is ×
+Success! Thank you! Your order will be delivered in next few weeks :-).
+2024-01-18 01:49:29,166 :INFO :test_formSubmission :Submit form with firstname:Rahul
+2024-01-18 01:49:29,274 :INFO :test_formSubmission :Submit form with lastname:Shetty
+2024-01-18 01:49:29,567 :INFO :test_formSubmission :Submit form with gender:Male
+2024-01-18 01:49:29,837 :INFO :test_formSubmission :Alert text:×
+Success! The Form has been submitted successfully!.
+2024-01-18 01:49:32,732 :INFO :test_formSubmission :Submit form with firstname:Olena
+2024-01-18 01:49:32,732 :INFO :test_formSubmission :Submit form with firstname:Olena
+2024-01-18 01:49:32,774 :INFO :test_formSubmission :Submit form with lastname:Shetty
+2024-01-18 01:49:32,774 :INFO :test_formSubmission :Submit form with lastname:Shetty
+2024-01-18 01:49:33,030 :INFO :test_formSubmission :Submit form with gender:Female
+2024-01-18 01:49:33,030 :INFO :test_formSubmission :Submit form with gender:Female
+2024-01-18 01:49:33,522 :INFO :test_formSubmission :Alert text:×
+Success! The Form has been submitted successfully!.
+2024-01-18 01:49:33,522 :INFO :test_formSubmission :Alert text:×
+Success! The Form has been submitted successfully!.
+2024-01-18 01:51:16,158 :INFO :test_e2e :Getting items by hitting Shop
+2024-01-18 01:51:16,189 :INFO :test_e2e :iphone X
+2024-01-18 01:51:16,213 :INFO :test_e2e :Samsung Note 8
+2024-01-18 01:51:16,231 :INFO :test_e2e :Nokia Edge
+2024-01-18 01:51:16,250 :INFO :test_e2e :Blackberry
+2024-01-18 01:51:16,502 :INFO :test_e2e :Entering country name as ukr
+2024-01-18 01:51:21,677 :INFO :test_e2e :Purchasing items by hitting Purchase button
+2024-01-18 01:51:21,829 :INFO :test_e2e :Response from application is ×
+Success! Thank you! Your order will be delivered in next few weeks :-).
+2024-01-18 01:51:26,188 :INFO :test_formSubmission :Submit form with firstname:Rahul
+2024-01-18 01:51:26,282 :INFO :test_formSubmission :Submit form with lastname:Shetty
+2024-01-18 01:51:26,463 :INFO :test_formSubmission :Submit form with gender:Male
+2024-01-18 01:51:26,660 :INFO :test_formSubmission :Alert text:×
+Success! The Form has been submitted successfully!.
+2024-01-18 01:51:27,039 :INFO :test_formSubmission :Submit form with firstname:Olena
+2024-01-18 01:51:27,039 :INFO :test_formSubmission :Submit form with firstname:Olena
+2024-01-18 01:51:27,104 :INFO :test_formSubmission :Submit form with lastname:Shetty
+2024-01-18 01:51:27,104 :INFO :test_formSubmission :Submit form with lastname:Shetty
+2024-01-18 01:51:27,245 :INFO :test_formSubmission :Submit form with gender:Female
+2024-01-18 01:51:27,245 :INFO :test_formSubmission :Submit form with gender:Female
+2024-01-18 01:51:27,387 :INFO :test_formSubmission :Alert text:×
+Success! The Form has been submitted successfully!.
+2024-01-18 01:51:27,387 :INFO :test_formSubmission :Alert text:×
+Success! The Form has been submitted successfully!.
+2024-01-18 02:01:05,517 :INFO :test_e2e :Getting items by hitting Shop
+2024-01-18 02:01:05,745 :INFO :test_e2e :iphone X
+2024-01-18 02:01:05,767 :INFO :test_e2e :Samsung Note 8
+2024-01-18 02:01:05,791 :INFO :test_e2e :Nokia Edge
+2024-01-18 02:01:05,813 :INFO :test_e2e :Blackberry
+2024-01-18 02:01:06,124 :INFO :test_e2e :Entering country name as ukr
+2024-01-18 02:01:11,331 :INFO :test_e2e :Purchasing items by hitting Purchase button
+2024-01-18 02:01:11,522 :INFO :test_e2e :Response from application is ×
+Success! Thank you! Your order will be delivered in next few weeks :-).
+2024-01-18 02:01:16,705 :INFO :test_formSubmission :Submit form with firstname:Rahul
+2024-01-18 02:01:16,823 :INFO :test_formSubmission :Submit form with lastname:Shetty
+2024-01-18 02:01:17,059 :INFO :test_formSubmission :Submit form with gender:Male
+2024-01-18 02:01:17,284 :INFO :test_formSubmission :Alert text:×
+Success! The Form has been submitted successfully!.
+2024-01-18 02:01:17,710 :INFO :test_formSubmission :Submit form with firstname:Olena
+2024-01-18 02:01:17,710 :INFO :test_formSubmission :Submit form with firstname:Olena
+2024-01-18 02:01:17,808 :INFO :test_formSubmission :Submit form with lastname:Shetty
+2024-01-18 02:01:17,808 :INFO :test_formSubmission :Submit form with lastname:Shetty
+2024-01-18 02:01:17,961 :INFO :test_formSubmission :Submit form with gender:Female
+2024-01-18 02:01:17,961 :INFO :test_formSubmission :Submit form with gender:Female
+2024-01-18 02:01:18,159 :INFO :test_formSubmission :Alert text:×
+Success! The Form has been submitted successfully!.
+2024-01-18 02:01:18,159 :INFO :test_formSubmission :Alert text:×
+Success! The Form has been submitted successfully!.
+2024-01-18 03:27:32,260 :INFO :test_formSubmission :Submit form with firstname:banana
+2024-01-18 03:27:32,360 :INFO :test_formSubmission :Submit form with lastname:consuella
+2024-01-18 03:27:32,486 :INFO :test_formSubmission :Submit form with gender:female
+2024-01-18 03:34:18,967 :INFO :test_formSubmission :Submit form with firstname:banana
+2024-01-18 03:34:19,074 :INFO :test_formSubmission :Submit form with lastname:consuella
+2024-01-18 03:34:19,195 :INFO :test_formSubmission :Submit form with gender:female
+2024-01-18 03:36:05,008 :INFO :test_formSubmission :Submit form with firstname:banana
+2024-01-18 03:36:05,110 :INFO :test_formSubmission :Submit form with lastname:consuella
+2024-01-18 03:36:05,255 :INFO :test_formSubmission :Submit form with gender:female
+2024-01-18 03:44:34,896 :INFO :test_formSubmission :Submit form with firstname:banana
+2024-01-18 03:44:34,983 :INFO :test_formSubmission :Submit form with lastname:consuella
+2024-01-18 03:44:35,116 :INFO :test_formSubmission :Submit form with gender:female
+2024-01-18 03:47:43,052 :INFO :test_formSubmission :Submit form with firstname:banana
+2024-01-18 03:47:43,169 :INFO :test_formSubmission :Submit form with lastname:consuella
+2024-01-18 03:47:43,305 :INFO :test_formSubmission :Submit form with gender:female
+2024-01-18 03:51:59,483 :INFO :test_formSubmission :Submit form with firstname:banana
+2024-01-18 03:51:59,577 :INFO :test_formSubmission :Submit form with lastname:consuella
+2024-01-18 03:51:59,706 :INFO :test_formSubmission :Submit form with gender:female
+2024-01-18 03:56:40,566 :INFO :test_formSubmission :Submit form with firstname:banana
+2024-01-18 03:56:40,691 :INFO :test_formSubmission :Submit form with lastname:consuella
+2024-01-18 03:56:40,823 :INFO :test_formSubmission :Submit form with gender:Female
+2024-01-18 03:56:41,005 :INFO :test_formSubmission :Alert text:×
+Success! The Form has been submitted successfully!.
